@@ -12,6 +12,9 @@ jsbox脚本，用来观看电视直播源的节目，外国电视为主，绝大
 + ABC News
 + Weather Channel
 + MSNCB
++ 凤凰卫视中文台
++ 凤凰卫视咨询台
++ 凤凰卫视香港台
 
 
-version：1.0.1
+version：1.0.2
