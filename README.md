@@ -14,4 +14,4 @@ jsbox脚本，用来观看电视直播源的节目，外国电视为主，绝大
 + MSNCB
 
 
-version：1.0.0
+version：1.0.1
