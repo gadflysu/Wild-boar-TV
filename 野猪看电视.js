@@ -89,7 +89,7 @@ const video = {
 
 $ui.render({
     props: {
-        title: ""
+        title: "野猪看电视"
     },
     views: [video,menu]
 });
