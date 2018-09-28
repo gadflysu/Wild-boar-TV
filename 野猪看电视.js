@@ -2,12 +2,12 @@
 moonzju@twitter
 野猪看电视
 观看电视直播源的节目，外国电视为主，绝大部分是720P画质，某些频道可能需要翻墙才能观看
-version：1.0.0
+version：1.0.1
 */ 
 
 var channelName=["TVB翡翠台", "TVB财经台","TVBS HD","NHK", "CNN", "ABC News", "Weather" ,"MSNBC","中国气象频道"]
 var channelAddr=[
-    "http://15550.liveplay.myqcloud.com/live/15550_7d5fc0e5c64411e792905cb9018cf0d4.m3u8",
+    "http://m.567it.com/jade.m3u8",
     "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8",
     "http://210.201.54.102/gtlive2/tc-tvbs/chunklist_w1101125571.m3u8",
     "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8",
