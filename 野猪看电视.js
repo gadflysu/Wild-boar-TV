@@ -3,10 +3,10 @@ moonzju@twitter
 野猪看电视
 观看电视直播源的节目，外国电视为主，绝大部分是720P画质，某些频道可能需要翻墙才能观看
 感谢LCO LOK网友提供的直接点击播放的方法
-version：1.0.2
+version：1.0.3
 */ 
 
-var channelName=["TVB翡翠台", "TVB财经台","TVBS HD","NHK", "CNN", "ABC News", "Weather" ,"MSNBC","中国气象频道","凤凰卫视中文台","凤凰卫视资讯台","凤凰卫视香港台"]
+var channelName=["TVB翡翠台", "TVB财经台","TVBS HD","NHK", "CNN", "ABC News", "Weather" ,"MSNBC","中国气象频道","凤凰卫视中文台","凤凰卫视资讯台","凤凰卫视香港台","高清时装台","TVB娱乐新闻台"]
 var channelAddr=[
     "http://m.567it.com/jade.m3u8",
     "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8",
@@ -19,7 +19,9 @@ var channelAddr=[
     "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8",
     "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
     "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
-    "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"    
+    "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8",
+    "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8",
+    "http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil"
 ]
 
 const video = {
