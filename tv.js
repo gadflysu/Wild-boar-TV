@@ -6,7 +6,7 @@ moonzju@twitter
 version：1.0.5
 */ 
 
-var channelName=["FOX2", "FOX3","湖南卫视高清","TVB财经台","TVBS HD","NHK", "CNN", "ABC News", "Weather" ,"MSNBC","中国气象频道","凤凰卫视中文台","凤凰卫视资讯台","凤凰卫视香港台","高清时装台","TVB娱乐新闻台","奇妙电视"]
+var channelName=["FOX2", "FOX3","湖南卫视高清","TVB财经台","TVBS HD","NHK", "CNN", "ABC News", "Weather" ,"MSNBC","中国气象频道","凤凰卫视中文台","凤凰卫视资讯台","凤凰卫视香港台","高清时装台","TVB娱乐新闻台","奇妙电视","金鹰纪实高清"]
 var channelAddr=[
     "http://cdn2.bear-tv.com/freetv/TOT_foxsport2/chunks.m3u8?",
     "http://cdn2.bear-tv.com/freetv/TOT_foxsport3/chunks.m3u8?",
@@ -24,7 +24,8 @@ var channelAddr=[
     "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8",
     "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8",
     "http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil",
-    "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+    "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
+    "http://223.110.243.148/PLTV/4/224/3221227490/index.m3u8"
 ]
 
 const video = {
