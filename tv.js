@@ -3,7 +3,7 @@ moonzju@twitter
 野猪看电视
 观看电视直播源的节目，外国电视为主，绝大部分是720P画质，某些频道可能需要翻墙才能观看
 感谢LCO LOK网友提供的直接点击播放的方法
-version：1.0.3
+version：1.0.5
 */ 
 
 var channelName=["FOX2", "FOX3","湖南卫视高清","TVB财经台","TVBS HD","NHK", "CNN", "ABC News", "Weather" ,"MSNBC","中国气象频道","凤凰卫视中文台","凤凰卫视资讯台","凤凰卫视香港台","高清时装台","TVB娱乐新闻台","奇妙电视"]
