@@ -19,8 +19,13 @@ jsbox脚本，用来观看电视直播源的节目，外国电视为主，绝大
 + 凤凰卫视香港台
 + 高清时装台
 + TVB娱乐新闻台
++ 金鹰纪实高清
++ USA DW
++ DTV HD
++ BTV HD
++ MTV HD
 
 安装链接
 https://xteko.com/redir?url=https://github.com/frozenthrone/Wild-boar-TV/blob/master/tv.js&name=%E9%87%8E%E7%8C%AA%E7%9C%8B%E7%94%B5%E8%A7%86
 
-version：1.0.5
+version：1.0.6
